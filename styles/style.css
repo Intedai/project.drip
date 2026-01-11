@@ -2,7 +2,7 @@
   cursor: url("../images/cursor/cursor.png"), default;
 }
 
-a {
+a, button{
   cursor: url("../images/cursor/pointer.png"), default !important;
 }
 
