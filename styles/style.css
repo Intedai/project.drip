@@ -1,0 +1,34 @@
+* {
+  cursor: url("../images/cursor/cursor.png"), default;
+}
+
+a {
+  cursor: url("../images/cursor/pointer.png"), default !important;
+}
+
+.main-window {
+  height: 100vh;
+}
+
+.title-bar-btn {
+  padding: 6px 8px !important;
+}
+
+.projectd-website {
+  background-color: black;
+  height: 100vh;
+}
+
+.logo {
+  font-weight: bold !important;
+}
+
+/* From https://www.w3schools.com/howto/howto_css_disable_text_selection.asp */
+header a {
+  /* Safari */
+  -webkit-user-select: none;
+  /* IE 10 and IE 11 */
+  -ms-user-select: none;
+  /* Standard syntax */
+  user-select: none;
+}
