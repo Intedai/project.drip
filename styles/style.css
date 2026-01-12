@@ -2,7 +2,7 @@
   cursor: url("../images/cursor/cursor.png"), default;
 }
 
-a, button{
+a, a img, button{
   cursor: url("../images/cursor/pointer.png"), default !important;
 }
 
@@ -45,6 +45,7 @@ a, button{
 .projectd-website {
   background-color: #302d34;
   height: 100vh;
+  overflow-y: auto;
 }
 
 .logo {
