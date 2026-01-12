@@ -39,11 +39,11 @@ a, button{
 }
 
 .title-bar-btn {
-  padding: 6px 8px !important;
+  padding: 3px 7px !important;
 }
 
 .projectd-website {
-  background-color: black;
+  background-color: #302d34;
   height: 100vh;
 }
 
